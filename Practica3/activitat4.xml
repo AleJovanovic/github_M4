@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<bookstore>
+	<book>
+		<title>Donde los árboles cantan</title>
+		<publisher>Laura Gallego</publisher>
+		<cover>Tapa dura</cover>
+		<price>14€</price>
+	</book>
+	<book>
+		<title>Anda</title>
+		<publisher>Juan Lopez</publisher>
+		<cover>Tapa dura</cover>
+		<price>40€</price>
+	</book>
+	<book>
+		<title>Lo que el viento se llevó</title>
+		<publisher>Erik Alonso</publisher>
+		<cover>Tapa blanda</cover>
+		<price>10€</price>
+	</book>
+	<book>
+		<title>Perdona si te llamo amor</title>
+		<publisher>Marta Diaz</publisher>
+		<cover>Tapa blanda</cover>
+		<price>25€</price>
+	</book>
+</bookstore>
