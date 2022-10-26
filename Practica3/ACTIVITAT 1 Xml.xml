@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+    <student pais= "España">
+       <name></name>
+       <surname></surname>
+       <email></email>
+       <dni></dni>
+    </student>
+    
+    <student pais= "España">
+       <name></name>
+       <surname></surname>
+       <email></email>
+       <dni></dni>
+    </student>
+
+    <student pais= "España">
+       <name></name>
+       <surname></surname>
+       <email></email>
+       <dni></dni>
+    </student>
+    
+    <student pais= "España">
+       <name></name>
+       <surname></surname>
+       <email></email>
+       <dni></dni>
+    </student>
+    
+    <student pais= "España">
+       <name></name>
+       <surname></surname>
+       <email></email>
+       <dni></dni>
+    </student>
+    
+</students>
