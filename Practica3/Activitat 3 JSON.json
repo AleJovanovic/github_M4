@@ -1,0 +1,34 @@
+{"bookstore":{
+    "book":[
+    {
+      "title": "Donde los arboles cantan",
+      "publisher": "Laura Gallego",
+      "cover": "Tapa dura",
+      "price": "14€"
+    },
+      
+    {
+      "title": "Anda",
+      "publisher": "Juan Lopez",
+      "cover": "Tapa dura",
+      "price": "40€"
+    },
+
+    {
+      "title": "Lo que el viento se llevo",
+      "publisher": "Erik Alonso",
+      "cover": "Tapa blanda",
+      "price": "10€"
+    },
+
+    {
+      "title": "PERDONA SI TE LLAMO AMOR",
+      "publisher": "Marta Diaz",
+      "cover": "Tapa blanda",
+      "price": "25€"
+    }
+
+      
+    ]
+  }
+  }
