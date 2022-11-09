@@ -1,0 +1,59 @@
+
+
+
+table{
+    text-align: center;
+    
+   /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;*/
+}
+
+table caption{
+    font-size: large;
+    background-color:blueviolet;
+    
+ color: white;
+ font-weight: normal;
+    text-align: center;
+  
+}
+
+table tr{
+
+    font-size: medium;
+    color:black;
+
+}
+/*
+table td{
+
+font-size: large;
+
+}*/
+
+
+table th{
+    font-size: large;
+    
+
+}
+
+.c1{
+
+font-family: "Comic Sans MS", "Comic Sans";
+   
+    color:black;
+    font-weight: normal;
+}
+
+.c2{
+    
+    font-family: "Comic Sans MS", "Comic Sans";
+    color:blueviolet;
+
+}
+
+.c3{
+
+    font-family: "Comic Sans MS", "Comic Sans";
+    color:orangered;
+}
