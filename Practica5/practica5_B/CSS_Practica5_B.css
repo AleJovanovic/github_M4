@@ -1,0 +1,16 @@
+table, th, td{
+    font-family: Times New Roman;/*tipo lrtra*/
+    font-size: medium;/*tamaño letra*/
+    border: 1px solid black;/*bordes tabla, colo y grosor*/
+    border-collapse: collapse;/*union celdas*/
+    padding: 4px /*espacio palabras*/
+
+}
+caption{
+    color: blue;/*color titulo*/
+    font-size: medium;/*tamaño letra*/
+    padding: 4px /*espacio palabras*/
+}
+th{
+    background-color: gray;/*color cabecera tabla*/
+}
