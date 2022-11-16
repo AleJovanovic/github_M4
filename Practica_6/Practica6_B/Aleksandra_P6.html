@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Practica 6</title>
+    <link rel="stylesheet" href="Aleksandra_P6_css.css">
+
+
+</head>
+<body>
+
+    <!--Label nombre con su input donde size es lo q va a medir de largo-->
+
+    <label >Nom</label><br>
+    <input type="text" id="Nom" size="25" value="el teu nom"/><br><br>
+
+    <label >Cognom</label><br>
+    <input type="text" id="Cognom" size="25" value="el teu cognom" /><br><br>
+
+    <label >Edat</label><br>
+    <input type="number" id="Edat" size="25" value="20" />
+
+<!--Radiobuttons-->
+
+<form>
+    <p>Cicle formatiu que es vol cursar l'any vinent</p>
+
+    <label for="html">DAM</label> <input  type="radio" id="DAM" name="fav_language" value="DAM" checked>
+    <br>
+    <label for="css">ASIX</label> <input type="radio" id="ASIX" name="fav_language" value="ASIX">
+    <br>
+    <label for="javascript">Altre...</label> <input type="radio" id="Altre" name="fav_language" value="Altre...">
+   <br>
+
+</form>
+
+<!--Checkbox-->
+<form>
+
+<p>Marca les teves aficions</p>
+
+
+    <label>Estudiar</label> <input type="checkbox" checked><br>
+    <label>ASIX</label> <input type="checkbox"><br>
+    <label>Llibres</label> <input type="checkbox"><br>
+    <label>Jugar a Magic</label>  <input type="checkbox"><br>
+    <label>Fer burilles</label><input type="checkbox"><br><br>
+    <label>Altres</label><br>
+    <textarea class="textoarea" id="Altres" name ="Altres" cols="50" rows="10"  >Especifica quines</textarea>
+   <br><br>
+
+
+
+</form>
+
+  <!--Opcion multiple con valor predeterminado (HTML5)-->
+
+    <form>
+
+        <label for="opcion">L'estàndard d'HTML que més m'agrada:</label>
+        <select id="html" name="html">
+            <option value="HTML 4.01">HTML 4.01</option>
+            <option value="XHTML 1.0">XHTML 1.0</option>
+            <option selected="selected" value="HTML5">HTML5</option>
+
+        </select> 
+    </form>
+    
+
+</body>
+
+
+</html>
+
