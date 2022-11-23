@@ -1,0 +1,49 @@
+
+
+.div_container1{
+   
+
+background-color: rgb(137, 169, 211);
+    width: 160px;
+    height:120px;
+    margin-left:20px;
+    margin-top:40px;  
+    position:absolute;
+
+    
+}
+
+.cajita_amarilla{   
+
+    background-color:yellow;
+    
+    width:40px;
+    height:40px;
+    margin-top:20px;
+margin-left:20px;
+margin-bottom: 60px;
+    
+}
+
+.div_container2{
+    background-color: rgb(238, 84, 79);
+    height:120px;
+    width:160px;
+    margin-top:140px;
+    margin-left:100px;
+    position:absolute;
+    
+    
+
+    
+}
+
+.Cajita_azul{
+    background-color: rgb(108, 228, 182);
+    width:40px;
+    height:40px;
+    margin-right:20px;
+    margin-top:60px;
+    margin-left:100px;
+   
+}
