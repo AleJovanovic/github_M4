@@ -1,0 +1,43 @@
+.div_amarillo{
+    border: 3px solid yellow; /*color bordes*/
+    background-color: yellow;/*color interior*/
+    /*posicion*/
+    position: relative; 
+    left: 20px;
+    top: 40px;
+    width: 160px;
+    height: 120px;
+}
+
+.div_azul{
+    border: 3px solid rgb(73, 156, 233); /*color bordes*/
+    background-color: rgb(73, 156, 233);/*color interior*/
+    /*posicion*/
+    position: absolute; 
+    left: 20px;
+    bottom: 60px;
+    width: 40px;
+    height: 40px;
+}
+
+.div_verde{
+    border: 3px solid rgb(99, 221, 180); /*color bordes*/
+    background-color: rgb(99, 221, 180);/*color interior*/
+    /*posicion*/
+    position: absolute; 
+    left: 100px;
+    top: 140px;
+    width: 160px;
+    height: 120px;
+}
+
+.div_rojo{
+    border: 3px solid red; /*color bordes*/
+    background-color: red;/*color interior*/
+    /*posicion*/
+    position: relative; 
+    left: 100px;
+    top: 60px;
+    width: 40px;
+    height: 40px;
+}
