@@ -1,0 +1,25 @@
+
+
+.div_container1{
+flex-grow:2;
+display:inline-flex;
+justify-content: space-between;
+
+
+}
+
+.div_container2{
+
+    display:inline-flex;
+    
+    
+    }
+
+    .contenedor_España{
+        background-color: lightgray;
+        display: flex;
+        justify-content:flex;
+        flex-direction:row;
+        color:gray;
+        
+    }
