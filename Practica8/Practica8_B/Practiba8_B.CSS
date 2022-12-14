@@ -1,0 +1,315 @@
+ 
+ 
+
+
+ /*CABECERA*/
+ a:link, a:visited {
+     text-decoration: none;
+ }
+
+ P1{
+     text-align: left;
+     font-family: Arial;
+     font-size: 14px;
+     left: 0.7cm;
+     position: absolute;
+     top: 0.6cm;
+ }
+
+ P2{
+     text-align: left;
+     font-family: Arial;
+     font-size: 14px;
+     left: 3.6cm;
+     position: absolute;
+     top: 0.6cm;
+ }
+
+ .div_inicio_sesion{
+     background-color: rgb(19, 124, 245);
+     border-radius: 5px;
+     width: 3.6cm;
+     height: 0.9cm;
+     margin-left: 46cm;
+     margin-top: 0.2cm;
+     margin-bottom: 4cm;
+     display:inline-block;
+     flex-direction:row;
+
+ 
+ }
+
+ P3{
+     text-align: left;
+     font-family: Arial;
+     font-size: 16px;
+     right: 1.05cm;
+     position: absolute;
+     top: 0.6cm;
+ }
+
+ P4{
+     right: 4.7cm;
+     position: absolute;
+     top: 0.55cm;
+ }
+
+ P5{
+     text-align: right;
+     font-family: Arial;
+     font-size: 14px;
+     right: 5.9cm;
+     position: absolute;
+     top: 0.6cm;
+ }
+ P6{
+     text-align: right;
+     font-family: Arial;
+     font-size: 14px;
+     right: 8cm;
+     position: absolute;
+     top: 0.6cm;
+ }
+ 
+/*LOGO GOOGLE*/
+body{
+     min-height: 100vh;
+     max-width: 800px;
+     display: block;
+     height: 1001ppx;
+     width: 1348px;
+}
+article {
+    margin: auto 0;
+
+}
+
+
+ font1{
+     text-align: center;
+     font-size: 90px;
+     font-family: 'Trebuchet MS';
+     position: absolute;
+     left: 22cm;
+     top: 6.5cm ;
+ }
+ font2{
+     text-align: center;
+     font-size: 90px;
+     font-family: 'Trebuchet MS';
+     position: absolute;
+     left: 23.5cm;
+     top: 6.5cm ;
+ }
+ font3{
+     text-align: center;
+     font-size: 90px;
+     font-family: 'Trebuchet MS';
+     position: absolute;
+     left: 24.7cm;
+     top: 6.5cm ;
+ }
+ font4{
+     text-align: center;
+     font-size: 90px;
+     font-family: Verdana;
+     position: absolute;
+     left: 25.9cm;
+     top: 6.5cm ;
+ }
+ font5{
+     text-align: center;
+     font-size: 90px;
+     font-family:  Verdana;
+     position: absolute;
+     left: 27.1cm;
+     top: 6.5cm ;
+ }/*css pagina alumnos*/
+ font6{
+     text-align: center;
+     font-size: 90px;
+     font-family:  Verdana;
+     position: absolute;
+     left: 27.5cm;
+     top: 6.5cm ;
+ }
+ fotos{
+    box-sizing: border-box;
+    display: block;
+    flex-direction: row;
+    flex-shrink: 0;
+    height: 160px;
+    max-height: 1600px;
+    width: 1365px;
+    padding-left: 20cm;
+    padding-top: 5cm;
+    justify-content: space-between;
+    color: white;
+    font-family: Arial;
+    
+ }
+ text1{
+    height: 100px;
+    max-height: 1600px;
+    width: 165px;
+    font-family: Arial;
+    padding-top: 5cm;
+/*BUSCADOR*/
+ }
+ font7{
+     width: 16cm;
+     height: 1.2cm;
+     border-radius: 40px;
+     border : 0.01cm solid rgb(204, 204, 204);
+     display: flex;
+     margin-top: 5cm;
+     margin-left: 17cm;
+     flex-direction:row;
+ }
+ font8{
+    background-color: rgb(245, 245, 245);
+    border-radius: 4px;
+    width: 4.2cm;
+    height: 1.1cm;
+    margin-left: 20cm;
+    margin-top: 1cm;
+    margin-bottom: 4cm;
+    display:inline-block;
+    flex-direction:row;
+}
+font9{
+    text-align: left;
+    font-family: Arial;
+    font-size: 16px;
+    left: 20.5cm;
+    position: absolute;
+    top: 13cm;
+    
+
+    
+}/*
+font10{
+    background-color: rgb(245, 245, 245);
+    border-radius: 4px;
+    width: 4.2cm;
+    height: 1.1cm;
+    margin-left: 40cm;
+    top: 0cm;
+    margin-bottom: 4cm;
+    display:inline-block;
+    flex-direction:row;
+}*/
+font11{
+    text-align: left;
+    font-family: Arial;
+    font-size: 16px;
+    left: 26.5cm;
+    position: absolute;
+    top: 13cm;  
+ }
+
+ font12{
+    text-align: right;
+    font-family: Arial;
+    font-size: 14px;
+    right: 26cm;
+    position: absolute;
+    top: 14.5cm;
+    color:rgb(71, 71, 71);
+}
+font13{
+    text-align: right;
+    font-family: Arial;
+    font-size: 14px;
+    right: 24.45cm;
+    position: absolute;
+    top: 14.5cm;
+}
+font14{
+    text-align: right;
+    font-family: Arial;
+    font-size: 14px;
+    right: 22.9cm;
+    position: absolute;
+    top: 14.5cm;
+}
+font15{
+    text-align: right;
+    font-family: Arial;
+    font-size: 14px;
+    right: 21.2cm;
+    position: absolute;
+    top: 14.5cm;
+}
+/*PIE DE PAGINA*/
+rectangulo{
+    margin-top: 4.5cm;
+    height: 3cm;
+    width: 50.5cm;
+    border-radius: 0px;
+    background-color: rgb(231, 231, 231);
+    display: flex;
+    flex-direction:row;
+}
+t1{
+    text-align: left;
+    font-family: Arial;
+    font-size: 14px;
+    left: 0.7cm;
+    position: absolute;
+    bottom: 0.5cm;
+}
+
+t2{
+    text-align: left;
+    font-family: Arial;
+    font-size: 14px;
+    left: 3.6cm;
+    position: absolute;
+    bottom: 0.5cm;
+}
+
+t3{
+    text-align: left;
+    font-family: Arial;
+    font-size: 14px;
+    left: 6.2cm;
+    position: absolute;
+    bottom: 0.5cm;
+}
+
+t4{
+    text-align: left;
+    font-family: Arial;
+    font-size: 14px;
+    left: 0.7cm;
+    position: absolute;
+    bottom: 1.5cm;
+}
+
+t5{
+    text-align: left;
+    font-family: Arial;
+    font-size: 14px;
+    right: 0.7cm;
+    position: absolute;
+    bottom: 0.5cm;
+}
+
+t6{
+    text-align: leFt;
+    font-family: Arial;
+    font-size: 14px;
+    right: 3.8cm;
+    position: absolute;
+    bottom: 0.5cm;
+}
+
+t7{
+    text-align: left;
+    font-family: Arial;
+    font-size: 14px;
+    right: 6.2cm;
+    position: absolute;
+    bottom: 0.5cm;
+}
